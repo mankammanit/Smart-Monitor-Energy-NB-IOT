@@ -1,6 +1,6 @@
-# NBIOT USED ESP-IDF V4.2 Stable Version
+# NBIOT USED ESP-IDF
 
-Author : KAMMANIT JITKUL
-Project : Energy Monitoring With NBIOT
-Platform : ESP-IDF
-Company : wireless solution asia co. ltd
+Author : KAMMANIT JITKUL<br/>
+Project : Energy Monitoring With NBIOT<br/>
+Platform : ESP-IDF<br/>
+Company : wireless solution asia co. ltd<br/>

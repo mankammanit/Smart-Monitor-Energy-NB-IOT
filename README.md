@@ -1,4 +1,4 @@
-# NBIOT USED ESP-IDF
+# NBIOT USED ESP-IDF v4.2 [Stable Version]
 
 Author : KAMMANIT JITKUL<br/>
 Project : Energy Monitoring With NBIOT<br/>

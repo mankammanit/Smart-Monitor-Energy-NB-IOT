@@ -24,7 +24,7 @@ char pub_data[64];
 uint8_t counter_sec;
 int counter_send;
 time_t counter_longtime;
-#define TIMER_SEND_MQTT 30 //seconds
+#define TIMER_SEND_MQTT 60 //seconds
 
 static hdc1080_sensor_t *internal_temp_sensor;
 float internal_temperature;

@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../Documents/PlatformIO/Projects/NB-IoT-WSA"
+		},
+		{
+			"path": "../../../Arduino/PM_Sensor"
+		},
+		{
+			"path": "../../../../SIM800L-master"
+		},
+		{
+			"path": "../../../Arduino/AirPlus Wireless Update"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__locale": "c",
+			"*.tcc": "c",
+			"sstream": "c",
+			"filesystem": "c",
+			"queue": "c",
+			"stack": "c",
+			"random": "c",
+			"__string": "c",
+			"string": "c",
+			"string_view": "c",
+			"cstring": "c",
+			"numeric": "cpp"
+		}
+	}
+}
